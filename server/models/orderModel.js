@@ -121,7 +121,6 @@ async function remove(id) {
 module.exports = {
   getPage,
   getById,
-  exists,
   create,
   update,
   remove,
